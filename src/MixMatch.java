@@ -17,5 +17,7 @@ public class MixMatch{
         System.out.println(decimal + "\t<- A float is a 32-bit floating point.");
         System.out.println(bigDecimal + "\t<- A double is a 64-bit floating point.");
         System.out.println(choice + "\t<- A boolean is a true or false value. It only takes up one bit!");
+
+        System.out.println("All of the data types!!!!" + animal + letter + small + large + huge + decimal + bigDecimal + choice);
     }
 }
